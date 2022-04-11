@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+table thead tr th {
+	text-align: center
+}
+
+
+.title {
+ font-size: 20px
+}
+
+.form-wrapper {
+	padding: 20px;
+	width: fit-content;
+	box-shadow: 0px 5px 10px 2px #88888836;
+}
+
+a{
+	text-decoration: none;
+	color: black
+}
+
+a:hover {
+	text-decoration: none;
+	color: black
+}
+
+button a{
+	text-decoration: none;
+	color: inherit
+}
+
+button a:hover {
+	text-decoration: none;
+	color: inherit
+}
+
+input:focus-visible, input{
+	outline: none;
+}

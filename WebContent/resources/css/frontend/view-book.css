@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+.img-wrapper {
+	display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.description {
+	font-size: 12px;
+	 word-break: break-all;
+     display: -webkit-box;
+     -webkit-box-orient: vertical;
+     -moz-box-orient: vertical;
+     -ms-box-orient: vertical;
+     box-orient: vertical;
+     -webkit-line-clamp: 5;
+     -moz-line-clamp: 5;
+     -ms-line-clamp: 5;
+     line-clamp: 5;
+     overflow: hidden;
+	
+}
+
+.quantity-input {
+	width: 40px;
+    height: 25px;
+}
+
+.reviewed-by {
+	font-size: 12px;
+	font-style: italic;
+}
+
+.review-block {
+	height: 310px;
+	overflow: auto
+}

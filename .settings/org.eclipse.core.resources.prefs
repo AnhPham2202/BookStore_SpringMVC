@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/com/bookstore/controller/admin/user/UpdateUserController.java=UTF-8
+encoding//src/com/bookstore/controller/frontend/ViewBookDetailController.java=UTF-8
+encoding//src/com/bookstore/dao/JpaDAO.java=UTF-8
+encoding//src/com/bookstore/service/ShoppingCartService.java=UTF-8
